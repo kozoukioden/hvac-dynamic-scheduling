@@ -1,6 +1,6 @@
-# Tez İçin Metodoloji Eklemesi: Dinamik Çizelgeleme ve Hızlandırma Kararı
+# Proje Metodolojisi: Dinamik Çizelgeleme ve Hızlandırma Kararı
 
-Aşağıdaki metinler, yapılan kod değişikliklerinin akademik karşılığını ve tezde "Yöntem" (Methodology) bölümüne eklenebilecek açıklamaları içermektedir.
+Aşağıdaki metinler, yapılan kod değişikliklerinin teknik karşılığını ve çalışmanın "Yöntem" (Methodology) bölümüne eklenebilecek teknik açıklamaları içermektedir.
 
 ## 1. Dinamik Yeniden Çizelgeleme (Dynamic Rescheduling) Yaklaşımı
 
@@ -46,4 +46,4 @@ Sonuç raporunda (`rapor.xlsx` - HIZLANDIRMA KARARLARI sayfası), modelin hangi 
 *   Seçilen yöntem (örn. Minivan Yükleme).
 *   Katlanılan ek maliyet ve kazanılan süre.
 
-Bu yapı, tezinizde **"Stokastik Tedarik Süreleri Altında Çok Amaçlı Dinamik Üretim Çizelgeleme"** başlığı altında sunulabilir.
+Bu yapı, çalışmanızda **"Stokastik Tedarik Süreleri Altında Çok Amaçlı Dinamik Üretim Çizelgeleme"** başlığı altında sunulabilir.
